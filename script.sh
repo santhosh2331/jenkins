@@ -1,4 +1,4 @@
 #!/bin/bash
 provider="santhosh"
 echo "The best hosting provider is $provider"
-echo " sandy is ass"
+echo " sandy is good boy"
